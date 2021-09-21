@@ -1,0 +1,11 @@
+.container {
+    background-color: beige;
+    border: solid 5px black;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.head {
+    margin-top: 200px;
+}
